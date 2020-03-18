@@ -1,41 +1,40 @@
-# Trufi Documentation
+# Documentación de Trufi
 
-Documentation for communities along the Trufi Association stream. All documents should be easy to understand, involve some graphics and should be kept as short as possible and the images not to small.
+Documentación para comunidades a lo largo del flujo de la Asociación Trufi. Todos los documentos deben ser fáciles de entender, incluir visualizaciones, deben ser lo más concisos posible y las imágenes en una resolución suficiente.
 
-## Community managers!
+## Líderes de comunidades!
 
-**JUST FOR COMMUNITY MANAGERS:** You should follow the guide [on the repository there](https://github.com/trufi-association/routemapping_josmconfig) to set up a tool that makes it easier to map bus routes in JOSM. With this in hand the documentation here will be a lot more effective and more hassle free for your community.
+**SOLO PARA LÍDERES DE COMUNIDADES:** Debes seguir la guía [en este repositorio](https://github.com/trufi-association/routemapping_josmconfig) para configurar una herramienta que facilite el mapeo de rutas de autobuses en JOSM. Con esto en mano, la documentación aquí será mucho más efectiva y evitará problemas a su comunidad.
 
-## Community members!
+## Miembros de comunidades!
 
-**THIS SECTION IS FOR THE COMMUNITY OR PEOPLE WORKING FOR THEM.**
+**ESTA SECCIÓN ES PARA LA COMUNIDAD O PARA PERSONAS PARTICIPANTES**
 
-### Content
+### Contenido
 
-#### Preparing
+#### Preparación
 
-[Installing JOSM on linux](installing-josm-on-linux/index.md) - Documentation how to install Java and JOSM on linux.
+[Instalar JOSM en linux](installing-josm-on-linux/index.md) - Documentación para instalar Java y JOSM en Linux.
 
-[Installing tool for easy mapping of public transportation systems](installing-mapping-tool/index.md) - How to set up the tool that allows you to map public transportation systems easily with JOSM. Simplifing JOSM. _Some communities do not require you to follow this documentation because they have their own approach._
+[Instalar herramienta para el mapeo fácil de sistemas de transporte público](installing-mapping-tool/index.md) - Cómo configurar la herramienta que permite mapear fácilmente los sistemas de transporte público con JOSM. Simplificando JOSM. _Algunas comunidades no necesitan seguir esta documentación porque tienen su propio enfoque._
 
-[Linking your OSM account with JOSM](oauth-josm/index.md) - We link your own OSM account to JOSM so you are able to upload changes to the map from inside JOSM. _Some communities do not require you to follow this documentation because they have it already set up for you._
+[Relacionar tu cuenta de OSM con JOSM](oauth-josm/index.md) - Vinculas tu propia cuenta de OSM a JOSM para que OSM pueda cargar los cambios en el mapa desde el editor de JOSM. _Algunas comunidades no necesitan seguir esta documentación porque ya la tiene configurada._
 
-#### Prepare to add a relation to OSM
+#### Añadir una relación a OSM
 
-[Understanding relations](understanding-relations/index.md) - In order to map the infrastructure of public transportation systems we need to understand relations first. Graphics dominate here!
+[Entender las relaciones](understanding-relations/index.md) - Para mapear la infraestructura de sistemas de transporte público, primero debemos entender las relaciones. ¡Los gráficos son predominantes aquí!
 
-[Adding bus stops or waiting positions for the passengers](adding-bus-stops/index.md) - Documents how to map bus stops and waiting positions and explains the difference between them. _Some communities do not require you to map bus stops or the waiting positions. In some cases they do not require both mapping practises e.g. in cities without bus stops_
+[Añadir paradas de bus o puntos de espera de pasajeros](adding-bus-stops/index.md) - Documenta cómo mapear las paradas de autobús y los puntos de espera de pasajeros y explica la diferencia entre las dos cosas. _Algunas comunidades no requieren que mapees las paradas de autobús o las posiciones de espera. En algunos casos, no requieren ambas prácticas de mapeo, por ejemplo en ciudades sin paradas de autobús_
+[Cortar caminos en uno o dos segmentos](split-ways/index.md) - Documenta cómo dividir un camino en casos donde una relación no sigue el camino hasta el final.
 
-[Split ways into one or two](split-ways/index.md) - Documents how to split a way in cases where a relation does not follow the way till the end.
+#### Agregar rutas a OSM
 
-#### Add route to OSM
+[Mapear rutas de bus](mapping-routes/index.md) - Aquí todo se junta. Esta es la parte por la que probablemente estés aquí. Esto explica cómo mapear rutas en JOSM para agregarlas a OpenStreetMap.
 
-[Mapping bus routes](mapping-routes/index.md) - Here all comes together. This is the part why you're probably here. This covers how to map routes in JOSM to add to OpenStreetMap.
+#### Elementos de la interfaz de usuario JOSM
 
-#### JOSM user interface elements explained
+[Cortar caminos en uno o dos segmentos](split-ways/index.md) - Documenta cómo dividir un camino en los casos en que una ruta de autobús no siga el camino hasta el final.
 
-[Split ways into one or two](split-ways/index.md) - Documents how to split a way in cases where a bus route does not follow the way till the end.
+[A propósito de topbar entry _Tools_](josm-tools/index.md) - Una descripción general rápida de las opciones disponibles que obtienes cuando seleccionas algo en el editor para realizar acciones.
 
-[About topbar entry _Tools_](josm-tools/index.md) - An quick overview of the available options you have when you select something in the editor to perform actions on.
-
-[Understanding the _Layers_ section shown on the right site of the editor](josm-editor-layers/index.md) - An quick overview of the _Layers_ section of the JOSM editor. This is a very important tool.
+[Entender la sección de _Layers_ visible en la parte derecha de la ventana del editor](josm-editor-layers/index.md) - Una descripción rápida de la sección _Layers_ del editor JOSM. Esta es una herramienta muy importante.
