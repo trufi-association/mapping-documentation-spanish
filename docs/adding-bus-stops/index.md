@@ -1,41 +1,42 @@
-# Adding bus stops
+# Agregar paradas de bus
 
-## Adding bus stops and adding platform for waiting passengers
+## Agregar paradas de bús y plataformas o puntos de espera para pasajeros 
 
-It's a great day to map bus stops and waiting passengers position. But first let me explain you the difference between both. Your community might agreed on to map just one of them or even not to map both. Please ask your community what to follow here so you really map what is wanted.
+Es un gran día para mapear las paradas de autobús y los puntos de espera de los pasajeros. Pero primero expliquemos la diferencia entre ambos. Tu comunidad podría acordar mapear solo paradas o puntos de espera o ninguno. Por favor, pregunta a tu comunidad qué decidir.
 
-### Differences between bus stops and waiting platforms
+### Diferencias entre paradas de autobús y puntos de espera
 
-Bus stops and waiting platforms are different things. They look the same but let us take a closer look to see that they aren't the same.
+Las paradas de autobús y las plataformas de espera son dos cosas diferentes. Se ven iguales pero echemos un vistazo más de cerca:
 
-A bus stop is the position where a bus **stops** and **not** where passengers are waiting:![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pr%C5%AFmyslov%C3%A1_str3%2C_Prague_%C5%A0t%C4%9Brboholy.jpg/782px-Pr%C5%AFmyslov%C3%A1_str3%2C_Prague_%C5%A0t%C4%9Brboholy.jpg)
+Una parada de autobús es el lugar donde un autobús **se detiene** y **no** donde los pasajeros esperan:![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pr%C5%AFmyslov%C3%A1_str3% 2C_Prague_%C5%A0t%C4%9Brboholy.jpg/782px-Pr%C5%AFmyslov%C3%A1_str3%2C_Prague_%C5%A0t%C4%9Brboholy.jpg)
 
-You see the bus is **stopping on the road and not on the sidewalk.** Bus stops are usually mapped as a node on the road itself.
+Si ves que el autobús **se detiene en la calle y no en la acera.** Las paradas de autobús generalmente se asignan como un nodo en la calle misma.
 
-On the other site we have the position where passengers are waiting. Of course **passengers are not waiting on the road, they are waiting on the sidewalk or a dedicated waiting platform**:![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bayview_trstwy.jpg/800px-Bayview_trstwy.jpg)
+Por otro lado tenemos el punto donde esperan los pasajeros. Por supuesto **los pasajeros no esperan en la calle, esperan en la acera o en una plataforma de espera dedicada**:![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bayview_trstwy.jpg/800px-Bayview_trstwy.jpg)
 
-The bus here is stopping on the bus stop position on the road like in the picture from above. Next to the bus stop position (or the bus itself) you see the sidewalk/waiting platform where passengers are actually waiting. A waiting platform can have also one or more shelters as you can see on the picture on the right middle site.
+El autobús se detiene en el punto de la parada de autobús en la calle como se ve en la imagen de arriba. Al lado de la parada de autobús (o del autobús en sí), verás la acera / plataforma de espera donde los pasajeros realmente se quedan esperando. Una plataforma de espera también puede tener uno o más refugios, como se puede ver en la imagen del centro a la derecha.
 
-**Summary:** A bus stop marks the bus position on the road itself where the bus stops. And passengers are usually waiting on the sidewalk/waiting platform next to the stop position of the bus (the bus stop) and **not** on the road itself.
+**Resumen:** Una parada de autobús marca la posición del autobús en la carretera donde se detiene el autobús. Y los pasajeros generalmente esperan en la acera / plataforma de espera junto al punto de parada del autobús (la parada del autobús como tal) y **no** en la carretera misma.
 
-### Mapping bus stop
+### Mapear paradas de autobús
 
-Skip this step when your community decided not to map the position on the road where a bus stops. We assume that you already opened JOSM and went to the position on the map where you want to map a bus stop.![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pr%C5%AFmyslov%C3%A1_str3%2C_Prague_%C5%A0t%C4%9Brboholy.jpg/313px-Pr%C5%AFmyslov%C3%A1_str3%2C_Prague_%C5%A0t%C4%9Brboholy.jpg)
+Omiten este paso cuando su comunidad decidió no mapear el punto en la carretera donde se detiene un autobús (parada de autobús). Suponemos que ya abriste JOSM y te dirigista al punto en el mapa donde deseas asignar una parada de autobús.![](Https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pr%C5%AFmyslov%C3%A1_str3%2C_Prague_%C5%A0t%C4%9Brboholy.jpg/313px-Pr%C5%AFmyslov%C3%A1_str3%2C_Prague_%C5%A0t%C4%9Brboholy.jpg)
 
-**ToDo:** Document the steps that need to be performed.
+**Tareas:** Documenten los pasos que deben realizarse.
 
-### Mapping waiting position for passengers
+### Mapear los puntos o plataformas de espera de pasajeros 
 
-Skip this step when your community decided to just map the bus stop position on the road. We assume that you already opened JOSM and went to the position on the map where you want to map a waiting area for passengers.
+Omitan este paso si su comunidad decide mapear solo los puntos de parada de autobús en la calle. 
+Suponemos que ya abriste JOSM y fuiste al punto en el mapa donde deseas asignar un área de espera para los pasajeros.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bayview_trstwy.jpg/320px-Bayview_trstwy.jpg)
 
-1. In the map edit view click the _drawing node/way_ symbol (highlighted red in the picture): ![](josm-editor-addnote.png)
+1. En la vista de edición del mapa, haz clic en el _drawing node/way_symbol (resaltado en rojo en la imagen):![](Josm-editor-addnote.png)
 
-2. Click on a position on the map where you want to create the node. Double click on the position on the map to add the note and to leave drawing mode so it looks like this (without the red circle around it): ![](josm-editor-nodeonmap.png)
+2. Haz clic en una posición en el mapa donde deseas crear el nodo. Haz doble clic en la posición en el mapa para agregar la nota y salir del modo de edición para que se vea así (sin el círculo rojo alrededor):![](Josm-editor-nodeonmap.png)
 
-3. Click on the _bus_ icon or go to _Presets_ --> _Public Transportation_ --> _Waiting plattform_ and a window opens that prompts you for the name of the bus stop (among other details depending on the configuration):![](josm-busstation-addname.png)
+3. Haz clic en el icono _bus_ o ve a _Presets_ -> _Public Transportation_ -> _Waiting plattform_ y se abrirá una ventana que te pedirá el nombre de la parada de autobús (entre otros datos según la configuración):![](Josm-busstation-addname.png)
 
-4. Fill in the fields you can fill and then click _Apply Preset_ (highlighted yellow) to apply the preset and to make the editor screen draw you a bus symbol onto the map (without the red circle): ![](josm-editor-bussymbolonmap.png)
+4. Llena los campos que puedes completar y luego haz clic en _Aplicar Preset_ (resaltado en amarillo) para aplicar el preset y hacer que la pantalla del editor dibuje un símbolo de autobús en el mapa (sin el círculo rojo):![](Josm-editor-bussymbolonmap.png)
 
-5. Finish. Start mapping other waiting positions like this.
+5. Terminar. Puedes seguir mapeando otras posiciones de espera como esta.
