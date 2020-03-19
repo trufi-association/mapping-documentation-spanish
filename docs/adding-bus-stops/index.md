@@ -1,4 +1,4 @@
-# Agregar paradas de bus
+# Agregar paradas de bús
 
 ## Agregar paradas de bús y plataformas o puntos de espera para pasajeros 
 
