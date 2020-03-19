@@ -31,7 +31,7 @@ Suponemos que ya abriste JOSM y fuiste al punto en el mapa donde deseas asignar 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bayview_trstwy.jpg/320px-Bayview_trstwy.jpg)
 
-1. En la vista de edición del mapa, haz clic en el _drawing node/way_symbol (resaltado en rojo en la imagen):![](josm-editor-addnote.png)
+1. En la vista de edición del mapa, haz clic en el _drawing node/way_ symbol (resaltado en rojo en la imagen):![](josm-editor-addnote.png)
 
 2. Haz clic en una posición en el mapa donde deseas crear el nodo. Haz doble clic en la posición en el mapa para agregar la nota y salir del modo de edición para que se vea así (sin el círculo rojo alrededor):![](josm-editor-nodeonmap.png)
 
