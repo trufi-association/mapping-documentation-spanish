@@ -6,4 +6,4 @@
 
 
 
-La documentación oficial está en el siguiente enlace: https://mapping-bus-routes.readthedocs
+La documentación oficial está en el siguiente enlace: https://mapping-bus-routes.readthedocs.io/es/master/
