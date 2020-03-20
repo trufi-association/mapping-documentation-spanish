@@ -2,11 +2,11 @@
 
 Documentación para comunidades a lo largo del flujo de la Asociación Trufi. Todos los documentos deben ser fáciles de entender, incluir visualizaciones, deben ser lo más concisos posible y las imágenes en una resolución suficiente.
 
-## Líderes de comunidades!
+## ¡Líderes de comunidades!
 
 **SOLO PARA LÍDERES DE COMUNIDADES:** Debes seguir la guía [en este repositorio](https://github.com/trufi-association/routemapping_josmconfig) para configurar una herramienta que facilite el mapeo de rutas de autobuses en JOSM. Con esto en mano, la documentación aquí será mucho más efectiva y evitará problemas a su comunidad.
 
-## Miembros de comunidades!
+## ¡Miembros de comunidades!
 
 **ESTA SECCIÓN ES PARA LA COMUNIDAD O PARA PERSONAS PARTICIPANTES**
 
