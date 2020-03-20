@@ -1,4 +1,4 @@
-# Cartografìa de rutas del autobùses
+# Cartografía de rutas del autobuses
 
 [![Estatus de la documentación](https://readthedocs.org/projects/mapping-documentation-spanish/badge/?version=master)](https://mapping-documentation-spanish.readthedocs.io/es/master/?badge=master)
 
@@ -6,4 +6,4 @@
 
 
 
-La documentación oficial está allí: https://mapping-bus-routes.readthedocs
+La documentación oficial está en el siguiente enlace: https://mapping-bus-routes.readthedocs
