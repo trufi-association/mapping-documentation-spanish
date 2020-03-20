@@ -1,6 +1,6 @@
-# Agregar paradas de bús
+# Agregar paradas de bus
 
-## Agregar paradas de bús y plataformas o puntos de espera para pasajeros 
+## Agregar paradas de bus y plataformas o puntos de espera para pasajeros
 
 Es un gran día para mapear las paradas de autobús y los puntos de espera de los pasajeros. Pero primero expliquemos la diferencia entre ambos. Tu comunidad podría acordar mapear solo paradas o puntos de espera o ninguno. Por favor, pregunta a tu comunidad qué decidir.
 
@@ -16,22 +16,22 @@ Por otro lado tenemos el punto donde esperan los pasajeros. Por supuesto **los p
 
 El autobús se detiene en el punto de la parada de autobús en la calle como se ve en la imagen de arriba. Al lado de la parada de autobús (o del autobús en sí), verás la acera / plataforma de espera donde los pasajeros realmente se quedan esperando. Una plataforma de espera también puede tener uno o más refugios, como se puede ver en la imagen del centro a la derecha.
 
-**Resumen:** Una parada de autobús marca la posición del autobús en la carretera donde se detiene el autobús. Y los pasajeros generalmente esperan en la acera / plataforma de espera junto al punto de parada del autobús (la parada del autobús como tal) y **no** en la carretera misma.
+**Resumen:** Una parada de autobús marca la posición del autobús en la carretera donde se detiene el autobús. Y los pasajeros generalmente esperan en la acera/plataforma de espera junto al punto de parada del autobús (la parada del autobús como tal) y **no** en la carretera misma.
 
 ### Mapear paradas de autobús
 
-Omiten este paso cuando su comunidad decidió no mapear el punto en la carretera donde se detiene un autobús (parada de autobús). Suponemos que ya abriste JOSM y te dirigista al punto en el mapa donde deseas asignar una parada de autobús.![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pr%C5%AFmyslov%C3%A1_str3%2C_Prague_%C5%A0t%C4%9Brboholy.jpg/313px-Pr%C5%AFmyslov%C3%A1_str3%2C_Prague_%C5%A0t%C4%9Brboholy.jpg)
+Omiten este paso cuando su comunidad decidió no mapear el punto en la carretera donde se detiene un autobús (parada de autobús). Suponemos que ya abriste JOSM y te dirigiste al punto en el mapa donde deseas asignar una parada de autobús.![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pr%C5%AFmyslov%C3%A1_str3%2C_Prague_%C5%A0t%C4%9Brboholy.jpg/313px-Pr%C5%AFmyslov%C3%A1_str3%2C_Prague_%C5%A0t%C4%9Brboholy.jpg)
 
 **Tareas:** Documenten los pasos que deben realizarse.
 
-### Mapear los puntos o plataformas de espera de pasajeros 
+### Mapear los puntos o plataformas de espera de pasajeros
 
-Omitan este paso si su comunidad decide mapear solo los puntos de parada de autobús en la calle. 
+Omitan este paso si su comunidad decide mapear solo los puntos de parada de autobús en la calle.
 Suponemos que ya abriste JOSM y fuiste al punto en el mapa donde deseas asignar un área de espera para los pasajeros.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bayview_trstwy.jpg/320px-Bayview_trstwy.jpg)
 
-1. En la vista de edición del mapa, haz clic en el _drawing node/way_ symbol (resaltado en rojo en la imagen):![](josm-editor-addnote.png)
+1. En la vista de edición del mapa, haz clic en el icono de  _drawing node/way_ (resaltado en rojo en la imagen):![](josm-editor-addnote.png)
 
 2. Haz clic en una posición en el mapa donde deseas crear el nodo. Haz doble clic en la posición en el mapa para agregar la nota y salir del modo de edición para que se vea así (sin el círculo rojo alrededor):![](josm-editor-nodeonmap.png)
 
