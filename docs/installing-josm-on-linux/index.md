@@ -2,7 +2,7 @@
 
 ## Instalar JOSM en Linux
 
-JOSM es una aplicación de escritorio que se usa para agregar rutas de transporte colectivo a OpenStreetMap. Pero JOSM (Java OpenStreetMap (editor)) es mucho más poderoso y a veces complica la tarea. Escribimos un tutorial _[how to](../installing-mapping-tool/install-bus-routes-mapping-tool.md)_ que lo hace más sencillo para su uso específico para el mapeo de rutas de transporte. Esta documentación cubre los pasos de instalación de JOSM. No mostramos aquí cómo usarlo para el mapeo de rutas, solamente los pasos de su instalación en Linux.
+JOSM es una aplicación de escritorio que se usa para agregar rutas de transporte colectivo a OpenStreetMap. Pero JOSM (Java OpenStreetMap (editor)) es mucho más poderoso y a veces complica la tarea. Escribimos un tutorial _[how to](../installing-mapping-tool/index.md)_ que lo hace más sencillo para su uso específico para el mapeo de rutas de transporte. Esta documentación cubre los pasos de instalación de JOSM. No mostramos aquí cómo usarlo para el mapeo de rutas, solamente los pasos de su instalación en Linux.
 
 ### Instalar Java
 
@@ -10,11 +10,11 @@ JOSM es una aplicación de escritorio que se usa para agregar rutas de transport
 
 2. Abre la terminal eligiendo la opción que aparece. La opción debe aparecer como `Terminal`,` Terminal Gnome` o `Terminal Xfce`, etc.
 
-3. La ventana emergente debería verse similar a la mía:![](Terminal.png)
+3. La ventana emergente debería verse similar a la mía:![](terminal.png)
 
 4. En esta ventana, escribe `java -version` y presiona ENTER para verificar si ya está instalado. La mayoría de las distribuciones de Linux tienen Java instalado de forma predeterminada.
 
-5. Si tu ventana tiene este aspecto, ya tienes instalado Java y puedes omitir _Instalar Java_:![](Terminal-java-version.png)
+5. Si tu ventana tiene este aspecto, ya tienes instalado Java y puedes omitir _Instalar Java_:![](terminal-java-version.png)
 
 6. Si tu ventana no parece ser como en la imagen anterior, entonces no tienes instalado Java. Es este el caso, necesitamos instalarlo:
 
