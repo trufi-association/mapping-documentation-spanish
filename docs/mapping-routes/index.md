@@ -16,7 +16,7 @@ Este tutorial muestra cómo agregar rutas de transporte informal a OpenStreetMap
 
 6. Espera que el proceso de carga haya terminado. Cuando terminó, la interfaz cambia, puedes ahora ver el editor: ![](josm-editor-overview.png)
 
-7. Antes de comenzar a mapear, necesitas preparar el editor y cargarle los datos de OSM. Carguemos primero los datos de OSM. Haz clic de nuevo en _File_ en la barra superior: ![](josm-topbar.png)
+7. Antes de comenzar el mapeo, necesitas preparar el editor y cargarle los datos de OSM. Carguemos primero los datos de OSM. Haz clic de nuevo en _File_ en la barra superior: ![](josm-topbar.png)
 
 8. Y luego en _Download data..._: ![](josm-file-menu-downloaddata.png)
 
