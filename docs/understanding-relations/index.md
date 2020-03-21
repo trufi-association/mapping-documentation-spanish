@@ -1,27 +1,27 @@
-# Documentation
+# Documentación
 
-## Understanding OSM relations
+## Entender las relaciones en OSM
 
-Relations use existing objects in the OpenStreetMap database to create new data out of existing data by connecting them. In OSM several types of relations exist e.g. the [Relation 9373675](https://www.openstreetmap.org/relation/9373675) is a bus relation with `type=route`. 
+Las relaciones utilizan objetos existentes de la base de datos de OpenStreetMap para crear nuevos datos al conectar estos objetos. En OSM, existen diferentes tipos de relaciones, ver por ejemplo la [Relation 9373675](https://www.openstreetmap.org/relation/9373675), es una relación de bús con una calle: `type=route`. 
 
 ---
 
 ![](streets.png)
 
-We see here a bunch of streets with their names (the street --> la calle). Streets are represented by one or more ways. On its own we cannot get to know which bus line is on which street e.g. we do not know that the route of _Bus 101_ uses the streets  _Avenida Republica_ and _Avenida Oquendo_. This is where relations come in. Relations allow us to connect streets to a route so we know exactly which bus drives in which street.
+Vemos aquí un grupo de calles y sus nombres. Las calles están representadas por uno o más caminos (ways). No podemos saber cuál línea de bús pasa por qué calle, por ejemplo, no sabemos si la ruta _Bus 101_ usa la _Avenida Republica_ o la _Avenida Oquendo_. Es donde las relaciones son útiles. Las relaciones permiten conectar calles con una ruta en este caso de transporte, para saber exactamente cual bús pasa por cual calle.
 
 ![](busroute.png)
 
-The orange line shows the route _Bus 101_ is driving. What do we now is adding this information to OSM. 
+La línea naranja muestra la ruta _Bus 101_. Lo que hay que hacer ahora es agregar esta información a OSM. 
 
 ![](connected-streets.png)
 
-We see a small part of the bus relation here. And everything that is part of the relation is marked red. That means all streets (ways) that are marked red actually belong to the relation: We connected the street *Avenida Republica* with the street *Avenida Oquenda* in our relation. So a relation is basically a set of nodes and ways in a specified order and describes a high level feature (e.g. bus route) by just combining existing data.
+Aquí vemos una pequeña parte de la relación del bús. Todo lo que es parte de la relación se muestra en rojo: significa que todas las calles en rojo son partes de la relación, quedando conectada la calle *Avenida Republica* con la *Avenida Oquenda*. Así que una relación es basicamente un conjunto de nodos y caminos en un orden específico, que describe un objeto de alto nivel (por ejemplo una ruta de bús) al solo combinar datos existentes.
 
 ![](relation-street-list.png)
 
-JOSM can show us the members (streets) of the relation not just graphical but also tabular. The table shows an ordered list from top to bottom of the ways that are part of the relation.
+JOSM puede mostrar los elementos (calles) de una relación no solo de manera gráfica pero también tabular. La tabla muestra una lista ordenada de arriba hacia abajo, de los caminos (ways) que son parte de una relación.
 
 
 
-**Summary:** Relations in OSM are high level feature that build something new (e.g. a bus route) upon existing OpenStreetMap data (e.g, streets (mapped ways)). So relations can be used to add bus routes and much more complexity and makes use of added infrastructure.
+**En resúmen:** Las relaciones en OSM son objetos de alto nivel que construyen algo nuevo (como una ruta de bús) sobre datos de OpenStreetMap pre-existentes (por ejemplo calles (caminos mapeados)). Así que las relaciones pueden usarse para agregar rutas de bús o objetos mucho más elaborados, y hacer uso de infraestructuras ya agregadas.
