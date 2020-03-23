@@ -1,7 +1,7 @@
 # Documentación
 
 !!! note ""
-	Pionen ([OSM Latam](https://wiki.openstreetmap.org/wiki/ES:OSM_Latam)) tradujo la página al español. El trabajo original en inglés es desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association.org))
+	Pionen ([OSM Latam](https://wiki.openstreetmap.org/wiki/ES:OSM_Latam)) tradujo la página al español. El trabajo original en inglés fue desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association.org))
 
 ## Dividir una vía en dos o más
 

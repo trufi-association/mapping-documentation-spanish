@@ -1,5 +1,8 @@
 #Herramienta para mapear las rutas de autobuses
 
+!!! note ""
+	JAAS ([OSM Latam](https://wiki.openstreetmap.org/wiki/ES:OSM_Latam)) tradujo la página al español. El trabajo original en inglés fue desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association.org))
+
 La herramienta que instalaremos permite mapear fácilmente las rutas de autobuses en los países en desarrollo. Claro que esta herramienta puede ser utilizada igualmente en países desarrollados. La herramienta que instalaremos juega un papel importante en nuestra meta de mapear las rutas del transporte público y de crear interés en las comunidades para que las mantengan. Este tutorial asume que usted ya cuenta con el editor JOSM instalado y funcionando, así como el archivo de configuración (`.xml`) de su comunidad.
 
 
@@ -33,4 +36,4 @@ La herramienta que instalaremos permite mapear fácilmente las rutas de autobuse
 14. Ahora debemos reiniciar JOSM seleccionando sobre _Edit_ --> _Restart_ u oprimiendo _Ctrl+Alt+Shift+J_:![](josm-restart.png)
 
 15. Toma un rato reiniciarse, pero ya lo hemos logrado. Ya contamos con las herramientas que necesitamos. Podrá notar los cambios que se han realizado en el GUI.
-
+

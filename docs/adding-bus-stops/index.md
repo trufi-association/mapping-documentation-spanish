@@ -1,7 +1,7 @@
 # Agregar paradas de bús
 
 !!! note ""
-	Mapeadora ([Geochicas](https://geochicas.org)) tradujo la página al español. El trabajo original en inglés es desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association.org))
+	Mapeadora ([Geochicas](https://geochicas.org)) tradujo la página al español. El trabajo original en inglés fue desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association.org))
 
 ## Agregar paradas de bús y plataformas o puntos de espera para pasajeros
 
