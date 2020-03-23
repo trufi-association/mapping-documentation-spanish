@@ -1,9 +1,9 @@
-# Agregar paradas de bus
+# Agregar paradas de bús
 
 !!! note ""
 	Mapeadora ([Geochicas](https://geochicas.org)) tradujo la página al español. El trabajo original en inglés es desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association.org))
 
-## Agregar paradas de bus y plataformas o puntos de espera para pasajeros
+## Agregar paradas de bús y plataformas o puntos de espera para pasajeros
 
 Es un gran día para mapear las paradas de autobús y los puntos de espera de los pasajeros. Pero primero expliquemos la diferencia entre ambos. Tu comunidad podría acordar mapear solo paradas o puntos de espera o ninguno. Por favor, pregunta a tu comunidad qué decidir.
 
