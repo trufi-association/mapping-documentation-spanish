@@ -15,7 +15,7 @@ Este tutorial muestra cómo agregar rutas de transporte informal a OpenStreetMap
 
 4. Luego haz clic en _Open_ desde el menú: ![](josm-file-menu.png)
 
-5. Una caja de diálogo se abre, selecciona el archivo de tu comunidad. Ve a la ubicación donde guardaste el `*.geojson`, haz clic en este archivo y abrelo con _Open_:![](josm-opendialog.png)
+5. Una caja de diálogo se abre, selecciona el archivo de tu comunidad. Ve a la ubicación donde guardaste el `*.geojson`, haz clic en este archivo y ábrelo con _Open_:![](josm-opendialog.png)
 
 6. Espera que el proceso de carga haya terminado. Cuando terminó, la interfaz cambia, puedes ahora ver el editor: ![](josm-editor-overview.png)
 
