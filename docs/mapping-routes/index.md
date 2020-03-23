@@ -1,7 +1,7 @@
 # Mapear rutas de transporte informal
 
 !!! note ""
-	Mapeadora ([Geochicas](https://geochicas.org)) tradujo la página al español. El trabajo original en inglés fue desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association.org))
+	Mapeadora ([Geochicas](https://geochicas.org)) tradujo la página al español. El trabajo original en inglés es desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association.org))
 
 Este tutorial muestra cómo agregar rutas de transporte informal a OpenStreetMap. Para poder hacerlo debes primero tener [JOSM instalado](../installing-josm-on-linux/index.md) así como la [herramienta custom mapping tool](../installing-mapping-tool/index.md) (si requerido por tu comunidad). Para subir los cambios a OSM, necesitas tener JOSM [sincronizado](../oauth-josm/index.md) con tu cuenta de OpenStreetMap.
 
@@ -27,7 +27,7 @@ Este tutorial muestra cómo agregar rutas de transporte informal a OpenStreetMap
 
 10. Haz clic en _Download as new layer_. Si aparece que el área seleccionada es demasiado grande, cambia su tamaño volviendo a ese cuadro de diálogo, haz clic y arrastra el mouse sobre una parte más pequeña del área previamente seleccionada. Suelta el mouse para crear nuevos límites. Repite hasta que el sistema acepte el área seleccionada :)
 
-11. Esto se ve más aceptable: ![](josm-editor-osmdataloaded.png)
+11. Esto se ve mejor: ![](josm-editor-osmdataloaded.png)
 
 12. Pero aún no estamos satisfechos, ¿verdad? Para tenerlo aún mejor, debemos agregar los mosaicos de OSM. Ve a _Imagery_ en la barra superior y luego seleccia _OpenStreetMap Carto (Standard)_. Magnifico, ¿no?
 
@@ -71,42 +71,42 @@ Presiona ALT+SHIFT+F1 para parar/iniciar la descarga automática de datos mientr
 
 4. Una ventana emergente se abre, que te solicita los datos que recibiste de tu comunidad. Escribe los datos en los campos correspondientes y haz clic en _Okay_. Se abre una nueva ventana que da una descripción general: ![](josm-createrelation-overview.png)
 
-5. En el sitio de la derecha, verás una lista de todos los objetos (calles) que has seleccionado en el editor JOSM. En el sitio de la izquierda, verás una lista de todos los objetos (calles) ya agregados a la relación. **¡No cierres ese diálogo, aún lo necesitamos!**
+5. En el sitio de la derecha, verás una lista de todos los objetos (calles) que has seleccionado en el editor JOSM. En el sitio de la izquierda, verás una lista de todos los objetos (calles) ya agregados a la relación. **¡No cierres este diálogo, aún lo necesitamos!**
 
 6. Selecciona otras calles a lo largo de la línea rojo oscuro, ve al diálogo de nuevo y haz clic en el bloque resaltado en rojo, donde seleccionas la última fila de tus cuatro filas, para agregar la selección a la lista de rutas en el sitio derecho.![](josm-createrelation-addafterlastmember.png) Puedes seleccionar varias calles a la vez manteniendo presionada la tecla de mayúsculas.
 
-7. Repeat step _6_ after you have the following situation: ![](josm-editor-splitwaysneeded.png)
+7. Repite el paso _6_ cuando llegues allí: ![](josm-editor-splitwaysneeded.png)
 
-8. _Newton, we've got a problem!_ What do we next is spliting the way. So we click on the map to deselect our selection. Be sure to add all streets except the street in question to the route like in step _6_.
+8. _Ups, tenemos un problema!_ Lo que se debe hacer ahora es fragmentar el camino. Haz clic en el mapa para deseleccionar la selección. Asegurate de añadir todas las calles a excepción de la ruta en cuestión en la ruta de transporte, como en el paso _6_.
 
-9. Select the street (way) in question. Zoom to the point where you need the split: ![](josm-editor-splitwaysneeded2.png)Zoomed in (cuted view):![](josm-editor-splitwaysneeded3.png)
+9. Selecciona la calle (way) en cuestión. Acercate con el zoom al punto donde vas a fragmentar la línea: ![](josm-editor-splitwaysneeded2.png) Zoom in (vista del corte):![](josm-editor-splitwaysneeded3.png)
 
-10. Select the street (here in blue).
+10. Selecciona la calle (aquí en azul).
 
-11. Hold down the key you use to write an upper letter at the beginning of a new sentence. Select the square (JOSM highlights it yellow) while holding down the key.![](josm-editor-splitwaysneeded4.png)
+11. Oprime la tecla de mayúsculas. Selecciona el cuadrado (JOSM lo ilumina en amarillo) mientras sigues oprimiendo la tecla.![](josm-editor-splitwaysneeded4.png)
 
-12. In the topbar click on _Tools_ and then on _Split way_. Alternatively press key _P_. A dialog prompts you to decide which way segment should preserve history. Just ignore it and click _Okay_. Deselect everything by clicking on a free space on the map.
+12. En la barra superior haz clic en _Tools_ y luego en _Split way_. Luego, oprime la tecla _P_. Una caja de diálogo te pedirá decidir para cual segmento de la vía conservar histórico. Ignóralo y haz clic en _Okay_. Deselecciona todo, dando clic en un espacio en blanco del mapa.
 
-13. Continue with step _6_ until the end of the darkred line.
+13. Continúa con el paso _6_ hasta el final de la línea rojo oscuro.
 
-14. When you reached the end of the darkred line, it means you are almost done. Now we need to validate your work. For that we go to the dialog you should leave open the whole time while mapping.
+14. Una vez terminada la línea rojo oscuro, casi has acabado. Ahora necesitamos validar tu trabajo. Para ello, dirígete a la caja de diálogo que dejaste abierta durante todo el proceso de mapeo.
 
-15. You should consult someone with validation if you're unfamilar with it. It's a critical part. Take a look on the different options the dialog offers you.
+15. Deberías consultar a alguien de validación si no eres familiar con este proceso. Es una parte crítica. Echa un ojo a las diferentes opciones que te ofrece la caja de diálogo.
     
-    - Select an entry from the list on the left site. Right click on it and click _Zoom to_ to zoom to that object on the map. Use this method to repair objects having the following symbol or similiar:![](josm-createvalidation-routelist-error.png)
+    - Selecciona una opción de la lista a la izquierda. Haz clic derecho y acercate con el zoom _Zoom to_ hacia este objeto en el mapa. Usa este método para reparar objetos, teniendo el siguiente simbolo, o parecido:![](josm-createvalidation-routelist-error.png)
     
-    - Use the feature _Zoom to_ and the map to find missing ways (streets). and hover on the buttons of the highlighted red area next to the _selection_ table to get what they do with the selection.![](josm-createselection-validate.png)
+    - Usa el _Zoom to_ y el mapa para encontrar caminos faltantes (calles), y desplaza el mouse sobre los botones del área resaltada en rojo junto a la tabla _selection_ y ve qué pasa.![](josm-createselection-validate.png)
     
-    - Black is your friend :) Everything black in the validation line means that the data is okay.![](josm-createrelation-validate2.png)
+    - El colo negro es tu amigo :) Todo lo que se pinta de negro en la línea de validación significa que los datos son correctos.![](josm-createrelation-validate2.png)
     
-    - The first and last entry show always a red symbol in the validation line because one end is not connected to another way (street). This is logical. A bus route usually ends somewhere.
+    - El primer y el último punto de la ventana de diálogo muestran siempre un símbolo rojo en la línea de validación, porque uno de los extremos no está conectado a la otra calle. Solo es lógica: una ruta de bús siempre termina en algun lado.
 
-16. In the route list dialog click _Okay_ to create that route. Do it when you think you're finish.
+16. En el cuadro de diálogo de la lista de rutas, haz clic en _Ok_ para crear esa ruta, cuando creas que has terminado.
 
-17. Click on the _Upload icon_ in the symbolbar right under the topbar: ![](josm-symbolbar-upload.png)
+17. Haz click en el ícono _Upload icon_ en la barra de símbolos debajo de la barra superior: ![](josm-symbolbar-upload.png)
 
-18. Ignore the dialogue _Suspicious data found_ when it popups or fix the issues. Inform your community about that and tell them what you've edited.
+18. Ignora la ventana de diálogo _Suspicious data found_ cuando abre, o repara los problemas. Informa tu comunidad sobre los problemas que han aparecido, y sobre las ediciones que has hecho.
 
-19. A new popup appears: ![](josm-uploaddialog.png)
+19. Una nueva ventana se abre: ![](josm-uploaddialog.png)
 
-20. Fil in the information requested and then click _Upload Changes_ to finish upload process.
+20. Llena la información requerida y haz clic en _Upload Changes_ para concluir el proceso de subida de la información.
