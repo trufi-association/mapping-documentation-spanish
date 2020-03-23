@@ -1,5 +1,8 @@
 # Barra superior: _Herramientas_ en JOSM
 
+!!! note ""
+	Yoviajo (OSM Bolivia) tradujo la página al español. El trabajo original en inglés es desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association.org))
+
 Puedes haber visto![](josm-topbar-tools.png)
 
 y te preguntas de qué se trata. Aquí te daré una vista general rápida.

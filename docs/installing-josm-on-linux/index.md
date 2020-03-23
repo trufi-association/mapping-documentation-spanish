@@ -1,5 +1,8 @@
 # Cómo instalar JOSM
 
+!!! note ""
+	Mapeadora ([Geochicas](https://geochicas.org)) tradujo la página al español. El trabajo original en inglés es desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association.org))
+
 ## Instalar JOSM en Linux
 
 JOSM es una aplicación de escritorio que se usa para agregar rutas de transporte colectivo a OpenStreetMap. Pero JOSM (Java OpenStreetMap (editor)) es mucho más poderoso y a veces complica la tarea. Escribimos un tutorial _[how to](../installing-mapping-tool/index.md)_ que lo hace más sencillo para su uso específico para el mapeo de rutas de transporte. Esta documentación cubre los pasos de instalación de JOSM. No mostramos aquí cómo usarlo para el mapeo de rutas, solamente los pasos de su instalación en Linux.
