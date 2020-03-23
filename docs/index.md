@@ -38,3 +38,9 @@ Documentación para comunidades a lo largo del flujo de la Asociación Trufi. To
 [A propósito de topbar entry _Tools_](josm-tools/index.md) - Una descripción general rápida de las opciones disponibles que obtienes cuando seleccionas algo en el editor para realizar acciones.
 
 [Entender la sección de _Layers_ visible en la parte derecha de la ventana del editor](josm-editor-layers/index.md) - Una descripción rápida de la sección _Layers_ del editor JOSM. Esta es una herramienta muy importante.
+
+# Contribuidores de esta documentación
+
+- Mapeadora ([Geochicas](https://geochicas.org))
+- Yoviajo ([OSM Bolivia](https://wiki.openstreetmap.org/wiki/Bolivia))
+- Pionen ([OSM Latam](https://wiki.openstreetmap.org/wiki/ES:OSM_Latam))

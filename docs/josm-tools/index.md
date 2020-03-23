@@ -1,7 +1,7 @@
 # Barra superior: _Herramientas_ en JOSM
 
 !!! note ""
-	Yoviajo (OSM Bolivia) tradujo la página al español. El trabajo original en inglés es desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association.org))
+	Yoviajo ([OSM Bolivia](https://wiki.openstreetmap.org/wiki/Bolivia)) tradujo la página al español. El trabajo original en inglés es desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association.org))
 
 Puedes haber visto![](josm-topbar-tools.png)
 
