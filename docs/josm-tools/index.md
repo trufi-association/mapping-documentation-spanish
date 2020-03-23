@@ -7,7 +7,7 @@ Puedes haber visto![](josm-topbar-tools.png)
 
 y te preguntas de qué se trata. Aquí te daré una vista general rápida.
 
-## Preparando para que la utilidad sea útil
+## Preparando para que la herramienta sea útil
 
 1. Necesitamos una vía una posición con la cual realizar acciones. La selección se volverá roja como![](josm-editor-selectway.png)
 
