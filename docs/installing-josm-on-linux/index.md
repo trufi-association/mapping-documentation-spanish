@@ -11,7 +11,7 @@ JOSM es una aplicación de escritorio que se usa para agregar rutas de transport
 
 1. Abre una terminal oprimiendo la tecla de _WINDOWS_ de tu teclado y escribiendo `terminal` en la barra de búsqueda. Cómo funciona la barra de búsqueda depende del sistema de escritorio y del menú de inicio. Es posible que debas activarlo primero para comenzar a escribir.
 
-2. Abre la terminal eligiendo la opción que aparece. La opción debe aparecer como `Terminal`,` Terminal Gnome` o `Terminal Xfce`, etc.
+2. Abre la terminal eligiendo la opción que aparece. La opción debe aparecer como `Terminal`,` Terminal GNOME` o `Terminal XFCE`, etc.
 
 3. La ventana emergente debería verse similar a la mía:![](terminal.png)
 
@@ -22,25 +22,25 @@ JOSM es una aplicación de escritorio que se usa para agregar rutas de transport
 6. Si tu ventana no parece ser como en la imagen anterior, entonces no tienes instalado Java. Es este el caso, necesitamos instalarlo:
 
    - Instalación en **Debian**, **Ubuntu** y similares como **Kubuntu**, **Xubuntu**:
-     
-     - Escribe `sudo apt install openjdk-11-jre`. Si esto arroja un error, intenta `su -c" apt install openjdk-11-jre "`. Cada comando que escribimos requiere que presione ENTER para procesarlo. Además, ambos comandos le solicitan su contraseña como:![](terminal-password-prompt.png)
-     
+
+     - Escribe `sudo apt install openjdk-11-jre`. Si esto arroja un error, intenta `su -c "apt install openjdk-11-jre"`. Cada comando que escribimos requiere que presione ENTER para procesarlo. Además, ambos comandos le solicitan su contraseña como:![](terminal-password-prompt.png)
+
      - Escribe tu contraseña. Es la contraseña de la cuenta root que configuraste durante la instalación o es la contraseña de tu usuario que utilizas para iniciar sesión en tu computadora (si no está desactivada). **Por razones de seguridad, no muestra lo que escribes. Ni siquiera ves un carácter `*` para cada carácter que escribes.**
-     
+
      - Aparecerá un resumen de lo que estará haciendo el sistema y al final se te preguntará si estás dispuesto a aplicar estos cambios.![](terminal-apt-prompt.png)
-     
+
      - Escribe `Y` y presiona ENTER. Ahora descargará e instalará Java. Si conoces 'apt', te ahorrarás mucho tiempo. Normalmente, como usuario de Windows, tendrías que ir al sitio de descarga, descargar el instalador, ejecutarlo y seguir las instrucciones de instalación. En Linux, esto no es necesario.
-   
-   - Instalación en Red-Hat y similares e.g. **Fedora**, **Oracle Linux**:
-     
+
+   - Instalación en **Red Hat** y similares e.g. **Fedora**, **Oracle Linux**:
+
      - Escribe `sudo yum install openjdk-1.8.0-jre`. Cada comando que escribimos requiere que presione ENTER para enviarlo a su procesador. Además, te solicitará tu contraseña.
-     
+
      - Escribe tu contraseña. Es la contraseña de la cuenta root que configuraste durante la instalación o es la contraseña de tu usuario que utilizas para iniciar sesión en tu computadora (si no está desactivada). **Por razones de seguridad, no muestra lo que escribe, ni siquiera un carácter `*` para cada carácter que escribes.**
-     
-     - Aparecerá un resumen de lo que el sistema estará procesando y al final se te preguntará si estás dispuestos a aplicar los cambios. 
-     
-     - Escribe `Y` y presiona ENTER. Ahora descargará e instalará Java. Si conoces 'apt', te ahorrarás mucho tiempo. Normalmente, como usuario de Windows, tendrías que ir al sitio de descarga, descargar el instalador, ejecutarlo y seguir las instrucciones de instalación. En Linux, esto no es necesario.
-   
+
+     - Aparecerá un resumen de lo que el sistema estará procesando y al final se te preguntará si estás dispuesto a aplicar los cambios.
+
+     - Escribe `Y` y presiona ENTER. Ahora descargará e instalará Java. Si conoces 'yum', te ahorrarás mucho tiempo. Normalmente, como usuario de Windows, tendrías que ir al sitio de descarga, descargar el instalador, ejecutarlo y seguir las instrucciones de instalación. En Linux, esto no es necesario.
+
    - **ToDo:** _Add more Linux derivatives_
 
 ### Instalar JOSM

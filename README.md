@@ -1,4 +1,4 @@
-# Cartografía de rutas del autobuses
+# Cartografía de rutas de autobuses
 
 [![Estatus de la documentación](https://readthedocs.org/projects/mapping-documentation-spanish/badge/?version=master)](https://mapping-documentation-spanish.readthedocs.io/es/master/?badge=master)
 
