@@ -1,4 +1,4 @@
-#Herramienta para mapear las rutas de autobuses
+# Herramienta para mapear las rutas de autobuses
 
 !!! note ""
 	JAAS ([OSM Latam](https://wiki.openstreetmap.org/wiki/ES:OSM_Latam)) tradujo la página al español. El trabajo original en inglés fue desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association.org))
