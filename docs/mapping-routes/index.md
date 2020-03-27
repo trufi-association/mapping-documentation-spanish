@@ -99,7 +99,7 @@ Presiona ALT+SHIFT+F1 para parar/iniciar la descarga automática de datos mientr
 
     - El color negro es tu amigo :) Todo lo que se pinta de negro en la línea de validación significa que los datos son correctos.![](josm-createrelation-validate2.png)
 
-    - El primer y el último punto de la ventana de diálogo muestran un símbolo rojo en la línea de validación, porque uno de los extremos no está conectado a la otra calle. Solo es lógica: una ruta de bús siempre termina en algún lado.
+    - El primer y el último punto de la ventana de diálogo muestran un símbolo rojo en la línea de validación, porque uno de los extremos no está conectado a la otra calle. Solo es lógica: una ruta de bus siempre termina en algún lado.
 
 16. En el cuadro de diálogo de la lista de rutas, haz clic en _Ok_ para crear esa ruta, cuando creas que has terminado.
 
