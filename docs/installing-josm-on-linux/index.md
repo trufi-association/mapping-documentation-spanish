@@ -55,4 +55,4 @@ En este punto ya no necesitas la Terminal.
 
 4. Dirígete a la sección _Permissions_ y marca la casilla _Permitir ejecutar el archivo como programa_:![](properties-permissions.png)
 
-5. Puedes cerrar la ventana y hacer doble clic en el icono del programa, debería abrir JOSM. Si JOSM no se abre, pero aparece una ventana emergente y ves algunos botones entre cuales uno dice "Ejecutar", haz clic en ese botón y JOSM debería abrirse.
+5. Puedes cerrar la ventana y hacer doble clic en el ícono del programa, debería abrir JOSM. Si JOSM no se abre, pero aparece una ventana emergente y ves algunos botones entre cuales uno dice "Ejecutar", haz clic en ese botón y JOSM debería abrirse.

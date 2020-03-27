@@ -32,29 +32,29 @@ Este tutorial muestra cómo agregar rutas de transporte informal a OpenStreetMap
 12. Pero aún no estamos satisfechos, ¿verdad? Para tenerlo aún mejor, debemos agregar los mosaicos de OSM. Ve a _Imagery_ en la barra superior y luego seleccia _OpenStreetMap Carto (Standard)_. Magnífico, ¿no?
 
 13. Echemos un vistazo rápido a la sección _Layers_ en el sitio superior derecho del editor.
-    
+
     ![](josm-editor-layers.png)
-    
+
     Por cierto, puedes cambiar el tamaño de las ventanas haciendo clic en los límites respectivos y arrastrándolos a la posición que desees.
 
 15. El nombre del bloque se ve ahora así: ![](josm-editor-layers-aftertogpx.png)
 
 16. Haz clic en el bloque de nuevo y selecciona
-    
+
     - _Customize Colour_ primero,
-    
+
     - Luego _Download from OSM along this track_
-    
+
     - Y finalmente _Precache imagery tiles along this track_.
 
 17. Haz clic de nuevo en el bloque y selecciona _Customize track drawing_, una nueva ventana emergente aparece: ![](josm-layers-customizedrawing.png)
 
 18. En el campo de texto pegado a _Drawing width of GPX lines_, escribe la medida deseada de ancho en pixeles. Te recomiendo `5`. Y haz clic en _Okay_.
 
-19. Oprime ALT+SHIFT+F1 para detener automaticamente la descarga de datos mientras te mueves en el mapa. En paralelo, haz clic en _File_ en la barra superior y luego _Download OSM data continuously_. Es una palanca. Luego, navega dentro del mapa hasta el final de la línea. Para navegar en el mapa, debes mantener presionada la tecla derecha del mouse mientras mueves el mouse. Usa la rueda del mouse para acercar o alejar el zoom. **La línea tiene dos extremidades: _inicio_ y _final_. Selecciona la que tiene la flecha que abre, no la flecha que cierra.**
-    
+19. Oprime ALT+SHIFT+F1 para detener automáticamente la descarga de datos mientras te mueves en el mapa. En paralelo, haz clic en _File_ en la barra superior y luego _Download OSM data continuously_. Es una palanca. Luego, navega dentro del mapa hasta el final de la línea. Para navegar en el mapa, debes mantener presionada la tecla derecha del mouse mientras mueves el mouse. Usa la rueda del mouse para acercar o alejar el zoom. **La línea tiene dos extremidades: _inicio_ y _final_. Selecciona la que tiene la flecha que abre, no la flecha que cierra.**
+
     - Final <-- Inicio
-    
+
     - ![](josm-editor-arrowrule.png)
 
 ## Preparar los datos de OSM a lo largo de la ruta que quieres agregar
@@ -77,7 +77,7 @@ Presiona ALT+SHIFT+F1 para parar/iniciar la descarga automática de datos mientr
 
 7. Repite el paso _6_ cuando llegues allí: ![](josm-editor-splitwaysneeded.png)
 
-8. _Ups, tenemos un problema!_ Lo que se debe hacer ahora es fragmentar el camino. Haz clic en el mapa para deseleccionar. Asegurate de añadir todas las calles a excepción de la vía en cuestión en la ruta de transporte, como en el paso _6_.
+8. _¡Ups, tenemos un problema!_ Lo que se debe hacer ahora es fragmentar el camino. Haz clic en el mapa para deseleccionar. Asegurate de añadir todas las calles a excepción de la vía en cuestión en la ruta de transporte, como en el paso _6_.
 
 9. Selecciona la calle (way) en cuestión. Acércate con el zoom al punto donde vas a fragmentar la línea: ![](josm-editor-splitwaysneeded2.png) Zoom in (vista del corte):![](josm-editor-splitwaysneeded3.png)
 
@@ -92,13 +92,13 @@ Presiona ALT+SHIFT+F1 para parar/iniciar la descarga automática de datos mientr
 14. Una vez terminada la línea rojo oscuro, casi has acabado. Ahora necesitamos validar tu trabajo. Para ello, dirígete a la caja de diálogo que dejaste abierta durante todo el proceso de mapeo.
 
 15. Deberías consultar a alguien sobre validación si no eres familiar con este proceso. Es una parte crítica. Echa un ojo a las diferentes opciones que te ofrece la caja de diálogo.
-    
+
     - Selecciona una opción de la lista a la izquierda. Haz clic derecho y acércate con el zoom _Zoom to_ hacia este objeto en el mapa. Usa este método para reparar objetos, teniendo el siguiente símbolo, o parecido:![](josm-createvalidation-routelist-error.png)
-    
+
     - Usa el _Zoom to_ y el mapa para encontrar caminos faltantes (calles), y desplaza el mouse sobre los botones del área resaltada en rojo junto a la tabla _selection_ y ve qué pasa.![](josm-createselection-validate.png)
-    
+
     - El color negro es tu amigo :) Todo lo que se pinta de negro en la línea de validación significa que los datos son correctos.![](josm-createrelation-validate2.png)
-    
+
     - El primer y el último punto de la ventana de diálogo muestran un símbolo rojo en la línea de validación, porque uno de los extremos no está conectado a la otra calle. Solo es lógica: una ruta de bús siempre termina en algún lado.
 
 16. En el cuadro de diálogo de la lista de rutas, haz clic en _Ok_ para crear esa ruta, cuando creas que has terminado.
