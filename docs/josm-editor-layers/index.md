@@ -1,5 +1,8 @@
 # Explicando _Capas_ en el editor JOSM
 
+!!! note ""
+	Yoviajo ([OSM Bolivia](https://wiki.openstreetmap.org/wiki/Bolivia)) tradujo la página al español. El trabajo original en inglés fue desarrollado por Sören Reinecke ([Trufi Association](https://trufi-associatio
+
 ![](josm-editor-layers.png)
 
 Puede haber visto esto antes y puede puede preguntarse para qué es.
