@@ -1,31 +1,31 @@
-# Documentation
+# Documentación
 
-## How to link your OpenStreetMap account to JOSM
+## Cómo enlazar su cuenta OpenStreetMap con JOSM
 
 Today we're going to link JOSM with your OSM account so you can upload changes from inside JOSM which we all extremely want. Perhaps the configuration for this has been done by your community by letting you set up the [JOSM configuration file](../installing-mapping-tool/index.md) or doing it for you. Just follow the instructions here when said so otherwise you might damage something.
 
-1. Open JOSM: ![](josm-logo.png)
+1. Abra JOSM: ![](josm-logo.png)
 
-2. Click on the _settings_ symbol:![](josm-settings.png)
+2. Clic en el en símbolo _preferencias_:![](josm-settings.png)
 
-3. The window that opens looks like this: ![](josm-settings-overview.png)
+3. La ventana que se abre se parece a esto: ![](josm-settings-overview.png)
 
-4. Click on the symbol for _Connection Settings_: ![](josm-settings-connection.png)
+4. Clic en el símbolo para _Ajustes de la conexión_: ![](josm-settings-connection.png)
 
-5. Then click on the button I highlighted red here: ![](josm-settings-connection-oauth.png)
+5. Luego clic en el botón aquí resaltado en rojo: ![](josm-settings-connection-oauth.png)
 
-6. A new window opens up and looks like this: ![](josm-oauth.png)
+6. Se abre una nueva ventana y se ve así: ![](josm-oauth.png)
 
-7. Enter your OSM Username in the first field that is highlighted red.
+7. Ingrese su nombre de usuario OSM en el primer campo que está resaltado rojo.
 
-8. Then your OSM Password in the second field that is highlighted red.
+8. Luego su Contraseña OSM en el segundo campo resaltado rojo.
 
-9. Finish typing your credentials? Then click _Authorize now_ right below the last text field.
+9. ¿Finalizó de escribir sus credenciales? Entonces clic _Autorizar ahora_ justo abajo del último campo de texto.
 
-10. Wait a moment for the transfer to complete. A summary of the oauthorisation process should popup like this: ![](oauth-josm-summaryscreen.png)
+10. Espere un momento para que se complete la transferencia. Un resumen del proceso de autorización debería aparecer así: ![](oauth-josm-summaryscreen.png)
 
-11. Click _Accept Access Token_ to put this to a good end.
+11. Clic en _Aceptar Token de Acceso_ para darle un buen término.
 
-12. Now your _Connection settings_ screen looks like this: ![](josm-settings-connecion-afteroauthsuccess.png)
+12. Ahora su ventana de _Ajustes de Conexión_ se ven así: ![](josm-settings-connecion-afteroauthsuccess.png)
 
-13. Click _ok_ to close this dialog. Now JOSM is linked to your OSM account and you can start mapping and improving the map right now. Yeah :)
+13. Clic _aceptar_ para cerrar este diálogo. Ahora JOSM está enlazado a su cuenta OSM y puede comenzar a mapear y mejorar el mapa ya mismo. Yupi :)
