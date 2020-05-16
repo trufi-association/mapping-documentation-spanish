@@ -19,7 +19,7 @@ La herramienta que instalaremos permite mapear fácilmente las rutas de autobuse
 
 6. La pantalla cambia de esta forma: ![](josm-expert-settings-overview.png)
 
-7. Seleccionamos sobre el último ícono de la barra a la izquierda: ![](joss-settings-configuration-icon.png)
+7. Seleccionamos sobre el último ícono de la barra a la izquierda: ![](josm-settings-configuration-icon.png)
 
 8. La pantalla cambia a algo similar a esto: ![](josm-settings-configuration.png)
 
