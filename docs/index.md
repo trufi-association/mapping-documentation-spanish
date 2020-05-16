@@ -44,4 +44,4 @@ Documentación para comunidades a lo largo del flujo de la Asociación Trufi. To
 - Mapeadora ([Geochicas](https://geochicas.org))
 - Yoviajo ([OSM Bolivia](https://wiki.openstreetmap.org/wiki/Bolivia))
 - Pionen ([OSM Latam](https://wiki.openstreetmap.org/wiki/ES:OSM_Latam))
-- AAS ([OSM Latam](https://wiki.openstreetmap.org/wiki/ES:OSM_Latam))
+- JAAS ([OSM Latam](https://wiki.openstreetmap.org/wiki/ES:OSM_Latam))
