@@ -9,7 +9,7 @@ La herramienta que instalaremos permite mapear fácilmente las rutas de autobuse
 
 1. Asegúrese de tener la herramienta (el archivo de configuración con la extensión `.xml`) utilizado por su comunidad. Pídalo si usted aún no cuenta con este. Normalmente lo dirigirán al tutorial acerca de para qué sirve este archivo.
 
-2. Abra JOSM (este tutorial asume que lo tiene ya instalado). ![](josm.logo.png)
+2. Abra JOSM (este tutorial asume que lo tiene ya instalado). ![](josm-logo.png)
 
 3. Seleccione Editar --> Preferencias o seleccione sobre el ícono: ![](josm-settings.png)
 
