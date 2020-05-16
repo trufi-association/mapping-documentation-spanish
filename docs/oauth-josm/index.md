@@ -2,7 +2,7 @@
 
 ## Cómo enlazar su cuenta OpenStreetMap con JOSM
 
-Today we're going to link JOSM with your OSM account so you can upload changes from inside JOSM which we all extremely want. Perhaps the configuration for this has been done by your community by letting you set up the [JOSM configuration file](../installing-mapping-tool/index.md) or doing it for you. Just follow the instructions here when said so otherwise you might damage something.
+Hoy vamos a enlazar JOSM con su cuenta OSM de manera de que pueda subir cambios desde dentro de JOSM que es lo que queremos. Quizás la configuración para esto ha sido realizada por su comunidad permitiéndole establecer el [archivo de configuración JOSM](../installing-mapping-tool/index.md) o haciéndolo por usted. Sólo siga las instrucciones que se le diga aquí ya que hacerlo de otra manera podría dañar algo.
 
 1. Abra JOSM: ![](josm-logo.png)
 
