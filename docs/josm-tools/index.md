@@ -17,7 +17,7 @@ y te preguntas de qué se trata. Aquí te daré una vista general rápida.
 
 3. Entonces tenemos las siguientes opciones dependiendo de nuestra selección:
 
-   - **Particionar vía**: Usado para crear dos vías a partir de una vía. Esto es útil cuando agregas una ruta a OSM y una vía es más larga que la ruta que sigue. Usualmente querrás partir en la posición donde la línea roja oscura toma su propio camino. (vea el gráfico arriba). Vea también mi [tutorial dedicado ](../split-ways/split-ways.md).
+   - **Particionar vía**: Usado para crear dos vías a partir de una vía. Esto es útil cuando agregas una ruta a OSM y una vía es más larga que la ruta que sigue. Usualmente querrás partir en la posición donde la línea roja oscura toma su propio camino. (vea el gráfico arriba). Vea también mi [tutorial dedicado ](../split-ways/index.md).
    - **Combinar vía**: Usado para crear una vía a partir de dos vías. Es lo opuesto de la funcionalida _Particionar vía_. Para que esta funcionalidad sea efectiva necesitarás dos vías seleccionadas manteniendo presionada la tecla SHIFT y seleccionándolas.
      - No Seleccionado: ![](josm-editor-twoways.png)
      - Seleccionado: ![](josm-editor-twowaysselected.png)
