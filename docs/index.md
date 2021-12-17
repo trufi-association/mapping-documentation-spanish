@@ -1,4 +1,4 @@
-# Mapping Bus Routes
+# Mapear rutas de bus
 
 Documentación para comunidades a lo largo del flujo de la Trufi Association. Todos los documentos deben ser fáciles de entender, incluir visualizaciones, deben ser lo más concisos posible y las imágenes en una resolución suficiente.
 
