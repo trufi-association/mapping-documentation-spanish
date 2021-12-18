@@ -1,22 +1,10 @@
-# Documentación de Trufi
+# Mapear rutas de bus
 
-Documentación para comunidades a lo largo del flujo de la Asociación Trufi. Todos los documentos deben ser fáciles de entender, incluir visualizaciones, deben ser lo más concisos posible y las imágenes en una resolución suficiente.
-
-## ¡Líderes de comunidades!
-
-**SOLO PARA LÍDERES DE COMUNIDADES:** Debes seguir la guía [en este repositorio](https://github.com/trufi-association/routemapping_josmconfig) para configurar una herramienta que facilite el mapeo de rutas de autobuses en JOSM. Con esto en mano, la documentación aquí será mucho más efectiva y evitará problemas a su comunidad.
-
-## ¡Miembros de comunidades!
-
-**ESTA SECCIÓN ES PARA LA COMUNIDAD O PARA PERSONAS PARTICIPANTES**
-
-### Contenido
+Documentación para comunidades a lo largo del flujo de la Trufi Association. Todos los documentos deben ser fáciles de entender, incluir visualizaciones, deben ser lo más concisos posible y las imágenes en una resolución suficiente.
 
 #### Preparación
 
 [Instalar JOSM en linux](installing-josm-on-linux/index.md) - Documentación para instalar Java y JOSM en Linux.
-
-[Instalar herramienta para el mapeo fácil de sistemas de transporte público](installing-mapping-tool/index.md) - Cómo configurar la herramienta que permite mapear fácilmente los sistemas de transporte público con JOSM. Simplificando JOSM. _Algunas comunidades no necesitan seguir esta documentación porque tienen su propio enfoque._
 
 [Relacionar tu cuenta de OSM con JOSM](oauth-josm/index.md) - Vinculas tu propia cuenta de OSM a JOSM para que OSM pueda cargar los cambios en el mapa desde el editor de JOSM. _Algunas comunidades no necesitan seguir esta documentación porque ya la tiene configurada._
 

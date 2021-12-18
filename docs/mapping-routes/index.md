@@ -67,7 +67,7 @@ Presiona ALT+SHIFT+F1 para parar/iniciar la descarga automática de datos mientr
 
 2. No vemos que toda la línea se ponga roja. Lo que nosotros vemos como una sola línea (la azul), son dos diferentes, porque la línea se ha dividido en el punto donde _Calle Campinas_ cruza la línea que seleccionamos.
 
-3. Queremos crear una ruta, por lo que damos clic en el ícono de línea en la barra de símbolos justo debajo de la barra de herramientas: ![](josm-symbolbar-busroute.png)
+3. Queremos crear una ruta, por lo cual hacemos clic en *Presets* (en el menú superior) --> *Transport* --> *Public Transport* --> *Public Transport Route (Bus)*: ![](josm-symbolbar-busroute.png)
 
 4. Una ventana emergente se abre, que te solicita los datos que recibiste de tu comunidad. Escribe los datos en los campos correspondientes y haz clic en _Okay_. Se abre una nueva ventana con una descripción general: ![](josm-createrelation-overview.png)
 
