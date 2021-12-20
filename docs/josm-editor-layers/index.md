@@ -3,7 +3,7 @@
 !!! note ""
 	Yoviajo ([OSM Bolivia](https://wiki.openstreetmap.org/wiki/Bolivia)) tradujo la página al español. El trabajo original en inglés fue desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association))
 
-![](josm-editor-layers.png)
+![](josm-editor-layers/out.png)
 
 Puede haber visto esto antes y puede puede preguntarse para qué es.
 
