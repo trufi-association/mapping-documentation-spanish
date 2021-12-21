@@ -34,12 +34,12 @@ Suponemos que ya abriste JOSM y fuiste al punto en el mapa donde deseas asignar 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bayview_trstwy.jpg/320px-Bayview_trstwy.jpg)
 
-1. En la vista de edición del mapa, haz clic en el ícono de  _drawing node/way_ (resaltado en rojo en la imagen):![](josm-editor-addnote.png)
+1. En la vista de edición del mapa, haz clic en el ícono de  _drawing node/way_ (resaltado en rojo en la imagen):![](josm-editor-addnote/out.png)
 
-2. Haz clic en una posición en el mapa donde deseas crear el nodo. Haz doble clic en la posición en el mapa para agregar la nota y salir del modo de edición para que se vea así (sin el círculo rojo alrededor):![](josm-editor-nodeonmap.png)
+2. Haz clic en una posición en el mapa donde deseas crear el nodo. Haz doble clic en la posición en el mapa para agregar la nota y salir del modo de edición para que se vea así (sin el círculo rojo alrededor):![](josm-editor-nodeonmap/out.png)
 
-3. Haz clic en el ícono _bus_ o ve a _Presets_ -> _Public Transportation_ -> _Waiting plattform_ y se abrirá una ventana que te pedirá el nombre de la parada de autobús (entre otros datos según la configuración):![](josm-busstation-addname.png)
+3. Haz clic en el ícono _bus_ o ve a _Presets_ -> _Public Transportation_ -> _Waiting plattform_ y se abrirá una ventana que te pedirá el nombre de la parada de autobús (entre otros datos según la configuración):![](josm-busstation-addname/out.png)
 
-4. Llena los campos que puedes completar y luego haz clic en _Aplicar Preset_ (resaltado en amarillo) para aplicar el preset y hacer que la pantalla del editor dibuje un símbolo de autobús en el mapa (sin el círculo rojo):![](josm-editor-bussymbolonmap.png)
+4. Llena los campos que puedes completar y luego haz clic en _Aplicar Preset_ (resaltado en amarillo) para aplicar el preset y hacer que la pantalla del editor dibuje un símbolo de autobús en el mapa (sin el círculo rojo):![](josm-editor-bussymbolonmap/out.png)
 
 5. Terminar. Puedes seguir mapeando otros puntos de espera como este.
