@@ -6,9 +6,9 @@ This tutorial collection curated by Trufi Association e.V. aims to make bus rout
 
 JOSM es una aplicación de escritorio que se usa para agregar rutas de transporte colectivo a OpenStreetMap. Pero JOSM (Java OpenStreetMap (editor)) es mucho más poderoso y a veces complica la tarea.
 
-[**Instalar JOSM en linux**](installing-josm-on-linux/linux.md)
+[**Instalar JOSM en linux**](./install-josm/linux.md)
 
-[**Instalar JOSM en Windows**](install-josm/windows.md)
+[**Instalar JOSM en Windows**](./install-josm/windows.md)
 
 [**Instalar JOSM en Mac**](./install-josm/mac.md)
 
