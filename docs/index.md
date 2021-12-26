@@ -1,31 +1,43 @@
 # Mapear rutas de bus
 
-Documentación para comunidades a lo largo del flujo de la Trufi Association. Todos los documentos deben ser fáciles de entender, incluir visualizaciones, deben ser lo más concisos posible y las imágenes en una resolución suficiente.
+This tutorial collection curated by Trufi Association e.V. aims to make bus route mapping for OpenStreetMap easier using J0SM to enable communities to document their public transportation systems digitally.
 
-#### Preparación
+## Setting up your workspace
 
-[Instalar JOSM en linux](installing-josm-on-linux/index.md) - Documentación para instalar Java y JOSM en Linux.
+JOSM es una aplicación de escritorio que se usa para agregar rutas de transporte colectivo a OpenStreetMap. Pero JOSM (Java OpenStreetMap (editor)) es mucho más poderoso y a veces complica la tarea.
 
-[Relacionar tu cuenta de OSM con JOSM](oauth-josm/index.md) - Vinculas tu propia cuenta de OSM a JOSM para que OSM pueda cargar los cambios en el mapa desde el editor de JOSM. _Algunas comunidades no necesitan seguir esta documentación porque ya la tiene configurada._
+[**Instalar JOSM en linux**](installing-josm-on-linux/index.md)
 
-#### Añadir una relación a OSM
+[**Instalar JOSM en Windows**](install-josm/windows.md)
 
-[Entender las relaciones](understanding-relations/index.md) - Para mapear la infraestructura de sistemas de transporte público, primero debemos entender las relaciones. ¡Los gráficos son predominantes aquí!
+[**Instalar JOSM en Mac**](./install-josm/mac.md)
 
-[Añadir paradas de bus o puntos de espera de pasajeros](adding-bus-stops/index.md) - Documenta cómo mapear las paradas de autobús y los puntos de espera de pasajeros y explica la diferencia entre las dos cosas. _Algunas comunidades no requieren que mapees las paradas de autobús o las posiciones de espera. En algunos casos, no requieren ambas prácticas de mapeo, por ejemplo en ciudades sin paradas de autobús_
-[Cortar caminos en uno o dos segmentos](split-ways/index.md) - Documenta cómo dividir un camino en casos donde una relación no sigue el camino hasta el final.
+[**Relacionar tu cuenta de OSM con JOSM**](oauth-josm/index.md)<br/>
+Vinculas tu propia cuenta de OSM a JOSM para que OSM pueda cargar los cambios en el mapa desde el editor de JOSM.
 
-#### Agregar rutas a OSM
+## Basics
 
-[Mapear rutas de bus](mapping-routes/index.md) - Aquí todo se junta. Esta es la parte por la que probablemente estés aquí. Esto explica cómo mapear rutas en JOSM para agregarlas a OpenStreetMap.
+[**Entender las relaciones**](understanding-relations/index.md)<br/>
+Para mapear la infraestructura de sistemas de transporte público, primero debemos entender las relaciones. ¡Los gráficos son predominantes aquí!
 
-#### Elementos de la interfaz de usuario JOSM
+[**Cortar caminos en uno o dos segmentos**](split-ways/index.md)<br/>
+Documenta cómo dividir un camino en casos donde una relación no sigue el camino hasta el final.
 
-[Cortar caminos en uno o dos segmentos](split-ways/index.md) - Documenta cómo dividir un camino en los casos en que una ruta de autobús no siga el camino hasta el final.
+## Routes on OSM
 
-[A propósito de topbar entry _Tools_](josm-tools/index.md) - Una descripción general rápida de las opciones disponibles que obtienes cuando seleccionas algo en el editor para realizar acciones.
+[**Añadir paradas de bus o puntos de espera de pasajeros**](adding-bus-stops/index.md)<br/>
+Documenta cómo mapear las paradas de autobús y los puntos de espera de pasajeros y explica la diferencia entre las dos cosas. _Algunas comunidades no requieren que mapees las paradas de autobús o las posiciones de espera. En algunos casos, no requieren ambas prácticas de mapeo, por ejemplo en ciudades sin paradas de autobús_
 
-[Entender la sección de _Layers_ visible en la parte derecha de la ventana del editor](josm-editor-layers/index.md) - Una descripción rápida de la sección _Layers_ del editor JOSM. Esta es una herramienta muy importante.
+[**Mapear rutas de bus**](mapping-routes/index.md)<br/>
+Aquí todo se junta. Esta es la parte por la que probablemente estés aquí. Esto explica cómo mapear rutas en JOSM para agregarlas a OpenStreetMap.
+
+## Extended
+
+[**A propósito de topbar entry _Tools_**](josm-tools/index.md)<br/>
+Una descripción general rápida de las opciones disponibles que obtienes cuando seleccionas algo en el editor para realizar acciones.
+
+[**Entender la sección de _Layers_ visible en la parte derecha de la ventana del editor**](josm-editor-layers/index.md)<br/>
+Una descripción rápida de la sección _Layers_ del editor JOSM. Esta es una herramienta muy importante.
 
 # Contribuidores de esta documentación
 
