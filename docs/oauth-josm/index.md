@@ -1,9 +1,7 @@
-# Documentación
+# Cómo enlazar su cuenta OpenStreetMap con JOSM
 
 !!! note ""
 	Yoviajo ([OSM Bolivia](https://wiki.openstreetmap.org/wiki/Bolivia)) tradujo la página al español. El trabajo original en inglés fue desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association))
-
-## Cómo enlazar su cuenta OpenStreetMap con JOSM
 
 Hoy vamos a enlazar JOSM con su cuenta OSM de manera de que pueda subir cambios desde dentro de JOSM que es lo que queremos. Quizás la configuración para esto ha sido realizada por su comunidad permitiéndole establecer el [archivo de configuración JOSM](../installing-mapping-tool/index.md) o haciéndolo por usted. Sólo siga las instrucciones que se le diga aquí ya que hacerlo de otra manera podría dañar algo.
 

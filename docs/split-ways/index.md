@@ -1,9 +1,7 @@
-# Documentación
+# Dividir una vía en dos o más
 
 !!! note ""
 	Pionen ([OSM Latam](https://wiki.openstreetmap.org/wiki/ES:OSM_Latam)) tradujo la página al español. El trabajo original en inglés fue desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association.org))
-
-## Dividir una vía en dos o más
 
 Dividir vías (partir una vía en dos o más) puede ser necesario cuando se intenta agregar una relación que sigue una vía parcialmente y no hasta el final. Agregar una vía a una relación, sin dividirla, podría traer efectos secundarios no deseados. También es necesario dividir una vía cuando las etiquetas no son consistentes a lo largo de la vía (Del punto A al punto B las etiquetas podrían variar de aquellas del punto C al punto D).
 

@@ -1,9 +1,7 @@
-# Documentación
+# Entender las relaciones en OSM
 
 !!! note ""
 	Mapeadora ([Geochicas](https://geochicas.org)) tradujo la página al español. El trabajo original en inglés fue desarrollado por Sören Reinecke ([Trufi Association](https://trufi-association.org))
-
-## Entender las relaciones en OSM
 
 Las relaciones utilizan objetos existentes de la base de datos de OpenStreetMap para crear nuevos datos al conectar estos objetos. En OSM, existen diferentes tipos de relaciones, ver por ejemplo la [Relation 9373675](https://www.openstreetmap.org/relation/9373675), es una relación de bus con una calle: `type=route`.
 
